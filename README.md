@@ -1,2 +1,2 @@
 # DistributedSystems
-Project for Distributed Systems NTUA 2023-2024
+Project for Distributed Systems ECE NTUA 2023-2024
